@@ -1,0 +1,10 @@
+{
+  "name": "yo",
+  "id": "1128761589628582729",
+  "api": "1.0.0",
+  "editorType": ["figjam"],
+  "permissions": [],
+  "containsWidget": true,
+  "main": "dist/code.js",
+  "widgetApi": "1.0.0"
+}
